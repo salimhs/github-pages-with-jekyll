@@ -1,3 +1,3 @@
-# Welcome to my blog
+#Salim Hadi Salim - ICS4U Portfolio
 
-I'm glad you are here. I plan to talk about ...
+Here I will be showing modules of things I have created throughout the course.
